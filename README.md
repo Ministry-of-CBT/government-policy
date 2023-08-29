@@ -6,7 +6,7 @@ the government has been formed since the last time your balls exploded.
 
 # Executive Orders
 
-###---- EXECUTIVE ORDER 0001
+### ---- EXECUTIVE ORDER 0001
 
 RE: The Removal of Sound Buttons.
 To be forwarded to all players via the ingame screen.
