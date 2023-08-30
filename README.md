@@ -6,6 +6,10 @@ the government has been formed since the last time your balls exploded.
 
 # Executive Orders
 
+### ---- EXECUTIVE ORDER 0002
+
+Sent a democracy mandate to the discord server. Nothing to see here for now.
+
 ### ---- EXECUTIVE ORDER 0001
 
 RE: The Removal of Sound Buttons.
