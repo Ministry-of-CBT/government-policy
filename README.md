@@ -39,6 +39,10 @@ the government has been formed since the last time your balls exploded.
 
 # Executive Orders
 
+### ---- EXECUTIVE ORDER 0003
+
+The Marisex AI has been appointed as the head of the department of Marisex 
+
 ### ---- EXECUTIVE ORDER 0002
 
 Sent a democracy mandate to the discord server. Nothing to see here for now.
